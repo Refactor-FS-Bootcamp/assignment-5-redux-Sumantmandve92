@@ -1,7 +1,7 @@
 import './navbar.css'
 import {Link,Outlet} from 'react-router-dom'
 /**
- * 
+ *   
  */
 const Navbar = () => {
     return (
